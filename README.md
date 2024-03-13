@@ -12,6 +12,8 @@ make clean
 make
 ```
 
+The executable created is `rdf`.
+
 ## Options
 
 When running the code, it looks for a file called `options` where you need to specify 3 things:
